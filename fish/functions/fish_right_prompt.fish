@@ -1,0 +1,1 @@
+/Users/sheenan/.config/fisherman/cyber/functions/fish_right_prompt.fish

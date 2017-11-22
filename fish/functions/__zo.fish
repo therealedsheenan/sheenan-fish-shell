@@ -1,0 +1,1 @@
+/Users/sheenan/.config/fisherman/z/functions/__zo.fish
