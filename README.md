@@ -2,8 +2,8 @@
 Personal fish setup
 
 # Installation
-	- Using Homebrew `brew install fish`
-	- Using MacPorts `sudo port install fish`
+- Using Homebrew `brew install fish`
+- Using MacPorts `sudo port install fish`
 
 
 # Getting started
